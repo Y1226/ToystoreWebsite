@@ -1,0 +1,26 @@
+﻿body {
+}
+
+h1 a {
+    text-decoration: none;
+    color: white;
+}
+
+
+    h1 a:hover {
+        color: #716d6d;
+    }
+
+div.bar:hover {
+    background-color: #716d6d;
+}
+
+svg {
+    fill: yellow;
+}
+
+.cards {
+    width:450px;
+    display:inline-block;
+    margin-left:15px;
+}

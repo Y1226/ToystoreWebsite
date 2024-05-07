@@ -1,0 +1,251 @@
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\Website.dll.config
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\Website.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\Website.pdb
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\Website.xml
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\csc.exe
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\csc.rsp
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\csi.exe
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\csi.rsp
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Net.Http.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Net.Sockets.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\vbc.exe
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YEP\Desktop\Homework\html\Website\Website\obj\Debug\Website.vbproj.AssemblyReference.cache
+C:\Users\YEP\Desktop\Homework\html\Website\Website\obj\Debug\Website.Resources.resources
+C:\Users\YEP\Desktop\Homework\html\Website\Website\obj\Debug\Website.vbproj.GenerateResource.cache
+C:\Users\YEP\Desktop\Homework\html\Website\Website\obj\Debug\Website.vbproj.CoreCompileInputs.cache
+C:\Users\YEP\Desktop\Homework\html\Website\Website\obj\Debug\Website.dll
+C:\Users\YEP\Desktop\Homework\html\Website\Website\obj\Debug\Website.xml
+C:\Users\YEP\Desktop\Homework\html\Website\Website\obj\Debug\Website.pdb
+C:\Users\YEP\Desktop\html\Website\Website\bin\Website.dll.config
+C:\Users\YEP\Desktop\html\Website\Website\bin\Website.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\Website.pdb
+C:\Users\YEP\Desktop\html\Website\Website\bin\Website.xml
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\csc.exe
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\csc.rsp
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\csi.exe
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\csi.rsp
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Net.Http.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Net.Sockets.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\vbc.exe
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\YEP\Desktop\html\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YEP\Desktop\html\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YEP\Desktop\html\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YEP\Desktop\html\Website\Website\obj\Debug\Website.vbproj.AssemblyReference.cache
+C:\Users\YEP\Desktop\html\Website\Website\obj\Debug\Website.Resources.resources
+C:\Users\YEP\Desktop\html\Website\Website\obj\Debug\Website.vbproj.GenerateResource.cache
+C:\Users\YEP\Desktop\html\Website\Website\obj\Debug\Website.vbproj.CoreCompileInputs.cache
+C:\Users\YEP\Desktop\html\Website\Website\obj\Debug\Website.dll
+C:\Users\YEP\Desktop\html\Website\Website\obj\Debug\Website.xml
+C:\Users\YEP\Desktop\html\Website\Website\obj\Debug\Website.pdb
+C:\Users\YEP\Desktop\html\Website\Website\obj\Debug\Website.vbproj.CopyComplete
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\Website.dll.config
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\Website.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\Website.pdb
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\Website.xml
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\csc.exe
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\csc.exe.config
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\csc.rsp
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\csi.exe
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\csi.exe.config
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\csi.rsp
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.AppContext.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Console.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Globalization.Calendars.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.IO.Compression.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Net.Http.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Net.Sockets.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.ValueTuple.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Xml.XPath.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\vbc.exe
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\vbc.exe.config
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\vbc.rsp
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\VBCSCompiler.exe
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\obj\Debug\Website.vbprojAssemblyReference.cache
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\obj\Debug\Website.Resources.resources
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\obj\Debug\Website.vbproj.GenerateResource.cache
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\obj\Debug\Website.vbproj.CoreCompileInputs.cache
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\obj\Debug\Website.vbproj.CopyComplete
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\obj\Debug\Website.dll
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\obj\Debug\Website.xml
+Z:\יוכבד פאללאק הנדסאים א\Website\Website\obj\Debug\Website.pdb
+D:\Website\Website\bin\Website.dll.config
+D:\Website\Website\bin\Website.dll
+D:\Website\Website\bin\Website.pdb
+D:\Website\Website\bin\Website.xml
+D:\Website\Website\bin\roslyn\csc.exe
+D:\Website\Website\bin\roslyn\csc.exe.config
+D:\Website\Website\bin\roslyn\csc.rsp
+D:\Website\Website\bin\roslyn\csi.exe
+D:\Website\Website\bin\roslyn\csi.exe.config
+D:\Website\Website\bin\roslyn\csi.rsp
+D:\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Website\Website\bin\roslyn\System.AppContext.dll
+D:\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+D:\Website\Website\bin\roslyn\System.Console.dll
+D:\Website\Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Website\Website\bin\roslyn\System.Globalization.Calendars.dll
+D:\Website\Website\bin\roslyn\System.IO.Compression.dll
+D:\Website\Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+D:\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Website\Website\bin\roslyn\System.Net.Http.dll
+D:\Website\Website\bin\roslyn\System.Net.Sockets.dll
+D:\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+D:\Website\Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Website\Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Website\Website\bin\roslyn\System.ValueTuple.dll
+D:\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Website\Website\bin\roslyn\System.Xml.XPath.dll
+D:\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Website\Website\bin\roslyn\vbc.exe
+D:\Website\Website\bin\roslyn\vbc.exe.config
+D:\Website\Website\bin\roslyn\vbc.rsp
+D:\Website\Website\bin\roslyn\VBCSCompiler.exe
+D:\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+D:\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Website\Website\obj\Debug\Website.vbproj.AssemblyReference.cache
+D:\Website\Website\obj\Debug\Website.Resources.resources
+D:\Website\Website\obj\Debug\Website.vbproj.GenerateResource.cache
+D:\Website\Website\obj\Debug\Website.vbproj.CoreCompileInputs.cache
+D:\Website\Website\obj\Debug\Website.vbproj.CopyComplete
+D:\Website\Website\obj\Debug\Website.dll
+D:\Website\Website\obj\Debug\Website.xml
+D:\Website\Website\obj\Debug\Website.pdb

@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>4Kids-Plus</title>
+    <link href="../style sheets/Products.css" rel="stylesheet" />
+    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="icon" href="../pictures/logo.png">
+    <style>
+        #nav {
+            background-color: #a5a5a5;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body style="background-color:#f6b59a">
+    <div class="container-fluid ">
+        <!--navbar-->
+        <div id="nav" style="color:white">
+            <div style="float: right; padding: 9px 15px"> <a href="HPmanager.html"><img style="height:60px;" src="../pictures/logo.png" /></a></div>
+            <div class="bar" style="float: right; padding:9px 15px"><a href="HPmanager.html#contact" style="color:white;font-size:40px;text-decoration:none">Contact</a></div>
+            <div style="height: 78px; float: right; padding: 9px 15px; background-color: #f6b59a"><h1 style="font-size:40px">Products</h1></div>
+            <div class="bar" style="float: right; padding:9px 15px"><a href="HPmanager.html#news" style="color:white;font-size:40px;text-decoration:none">News</a></div>
+            <div class="bar" style="float: right; padding:9px 15px"><a href="HPmanager.html#location" style="color:white;font-size:40px;text-decoration:none">Location</a></div>
+            <div class="bar" style="float: right; padding:9px 15px"><a href="HPmanager.html#about" style="color:white;font-size:40px;text-decoration:none">About</a></div>
+            <!--your profile picture-->
+            <div class="container-fluid" style="float:left;width:100px">
+                <a class="navbar-brand">
+                    <img src="../pictures/icon-person-28.jpg" alt="Logo" style="width:45px;margin-top:7px;margin-left:10px;float:left" class="rounded-pill">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--an option to add a product, with a validation check-->
+    <div style="width:80%;float:left;margin-top:10%;margin-left:10%">
+        <div class="container mt-3">
+            <h3>Add a Product</h3>
+            <form action="/action_page.php" class="was-validated">
+                <!--add an product-->
+                <div class="mb-3 mt-3">
+                    <label for="uname" class="form-label">Product Name:</label>
+                    <input type="text" class="form-control" id="uname" placeholder="Name" name="uname" required>
+                    <div class="valid-feedback">Valid.</div>
+                    <div class="invalid-feedback">Please fill out this field.</div>
+                </div>
+                <!--add a #-->
+                <div class="mb-3 mt-3">
+                    <label for="uname" class="form-label">Item #:</label>
+                    <input type="text" class="form-control" id="uname" placeholder="###" name="uname" required>
+                    <div class="valid-feedback">Valid.</div>
+                    <div class="invalid-feedback">Please fill out this field.</div>
+                </div>
+                <!--add a price-->
+                <div class="mb-3 mt-3">
+                    <label for="uname" class="form-label">Price:</label>
+                    <input type="text" class="form-control" id="uname" placeholder="$--" name="uname" required>
+                    <div class="valid-feedback">Valid.</div>
+                    <div class="invalid-feedback">Please fill out this field.</div>
+                </div>
+                <!--add a description-->
+                <div class="mb-3 mt-3">
+                    <label for="uname" class="form-label">Product Description:</label>
+                    <input type="text" class="form-control" id="uname" placeholder="Description" name="uname" required>
+                    <div class="valid-feedback">Valid.</div>
+                    <div class="invalid-feedback">Please fill out this field.</div>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

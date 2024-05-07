@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>4KidsPlus</title>
+    <link href="../style sheets/myAccount.css" rel="stylesheet" />
+    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="icon" href="../pictures/logo.png">
+    <style>
+        #nav {
+            background-color: #a5a5a5;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid ">
+        <div class="container-fluid ">
+            <!--navbar-->
+            <div id="nav" style="color:white">
+                <div style="float: right; padding: 9px 15px"> <a href="../HomePage.html"><img style="height:60px;" src="../pictures/logo.png" /></a></div>
+                <div class="container-fluid" style="float:left;width:100px">
+                    <!--your profile picture with a link to log out, which brings you back to the sign in page-->
+                    <a class="navbar-brand">
+                        <img src="../pictures/cust.jpg" alt="Logo" style="width:45px;margin-top:7px;margin-left:10px;float:left" class="rounded-pill">
+                        <!--<p>customer</p>-->
+                    </a>
+                    <h1><a href="../signIn.html" style="float:left;font-size:13px">Log Out</a></h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--different options to check out about your account (a side navbar)-->
+    <div style="height:1000px;width:15%;background-color:#a5a5a5;float:left;margin-top:-30px;padding:50px 0 0 15px;text-decoration:underline;color:darkblue;position:fixed">
+        <a href="../Customer/MyAccount/profile.html">My Profile</a>
+        <br />
+        <a href="../Customer/MyAccount/cart.html">My Cart</a>
+        <br />
+        <a href="../Customer/MyAccount/orders.html">My Orders</a>
+    </div>
+
+    <!--my profile-->
+    <div style="position:center;margin-top:100px;margin-left:30%">
+        <img src="../pictures/cust.jpg" />
+        <h1>Name: Anonomyous</h1>
+        <h1>Email: Anonomyous@gmail.com</h1>
+        <h1>Cell #: 053-6529874</h1>
+        <h1>Region: Israel</h1>
+        <h1>Sex: Male</h1>
+        <br />
+        <br />
+        <br />
+    </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+﻿body {
+}
+
+h1 a {
+    text-decoration: none;
+    color: white;
+    margin-left:8px;
+}
+
+
+h1 a:hover {
+    color: #716d6d;
+}

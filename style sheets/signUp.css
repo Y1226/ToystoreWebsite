@@ -1,0 +1,22 @@
+﻿body {
+}
+
+#nav {
+    background-color: #a5a5a5;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.no-drop {
+    cursor: no-drop;
+}
+
+h2:hover {
+    color: #716d6d;
+}
+
+.pointer {
+    cursor:pointer;
+}

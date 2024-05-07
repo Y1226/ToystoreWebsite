@@ -1,0 +1,19 @@
+﻿body {
+    background-color:#70ad47;
+}
+
+div.bar:hover {
+    background-color: #716d6d;
+}
+
+
+h1 a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 a:hover {
+    color: #716d6d;
+}
+
+

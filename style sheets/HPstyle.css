@@ -1,0 +1,86 @@
+﻿body {
+    
+}
+#location.p{
+    position:center;
+    text-align:center;
+    color:white;
+    font-size:15px;
+}
+/*#nav {
+    background-color: #a5a5a5;
+    height: 100px;
+    position: sticky;
+    top: 0;
+}*/
+#about {
+    width:100%;
+    background-color:#5b9bd5;
+    float:right;
+    
+}
+#location {
+    width: 100%;
+    background-color: #70ad47;
+    float: left;
+}
+#news {
+    width: 100%;
+    background-color: #ffc000;
+    float: left;
+}
+#products {
+    width: 100%;
+    background-color: #ed7d31;
+    float: left;
+}
+#contact {
+    width: 100%;
+    background-color: #e55b5b;
+    float: left;
+}
+#footer {
+    height: 200px;
+    width: 100%;
+    background-color: #4a4a4a;
+    float: left;
+}
+/*#dbox1 {
+    height:400px;
+    width:2px;
+    background-color:#a7c4e6;
+    float:right;
+    padding:100px;
+}*/
+
+h1 a {
+    text-decoration: none;color:white;
+}
+
+div.bar:hover {
+    background-color: #716d6d;
+}
+
+h1 a:hover {
+    color: #716d6d;
+}
+
+ h1 a.about:hover {
+    color: darkblue;
+}
+h1 a.location:hover {
+    color: darkgreen;
+}
+
+h1 a.news:hover {
+    color: #b1890e;
+}
+
+h1 a.products:hover {
+    color: #b14f0c;
+}
+
+h1 a.contact:hover {
+    color: darkred;
+}
+

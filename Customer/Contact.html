@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>4KidsPlus</title>
+    <link href="../style sheets/Contact.css" rel="stylesheet" />
+    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="icon" href="../pictures/logo.png">
+    <style>
+        #nav {
+            background-color: #a5a5a5;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body style="background-color:#f7a7a7">
+    <div class="container-fluid ">
+        <!--navbar-->
+        <div id="nav" style="color:white">
+            <div style="float: right; padding: 9px 15px"> <a href="HomePage.html"><img style="height:60px;" src="../pictures/logo.png" /></a></div>
+            <div style="height: 78px; float: right; padding: 9px 15px; background-color: #f7a7a7"><h1 style="font-size:40px">Contact</h1></div>
+            <div class="bar" style="float: right; padding:9px 15px"><a href="HomePage.html#products" style="color:white;font-size:40px;text-decoration:none">Products</a></div>
+            <div class="bar" style="float: right; padding:9px 15px"><a href="HomePage.html#news" style="color:white;font-size:40px;text-decoration:none">News</a></div>
+            <div class="bar" style="float: right; padding:9px 15px"><a href="HomePage.html#location" style="color:white;font-size:40px;text-decoration:none">Location</a></div>
+            <div class="bar" style="float: right; padding:9px 15px"><a href="HomePage.html#about" style="color:white;font-size:40px;text-decoration:none">About</a></div>
+            <!--your profile picture with a link to go to your account-->
+            <div class="container-fluid" style="float:left;width:100px">
+                <a class="navbar-brand">
+                    <img src="../pictures/cust.jpg" alt="Logo" style="width:45px;margin-top:7px;margin-left:10px;float:left" class="rounded-pill">
+                </a>
+                <h1><a href="../Customer/MyAccount.html" style="float:left;font-size:13px">My Account</a></h1>
+            </div>
+        </div>
+    </div>
+
+    <!--a header for the page-->
+    <h1 style="margin-top:150px;text-align:center;text-decoration:underline">Get In Touch!</h1>
+
+    <!--a place to fill in your name and email-->
+    <div class="container mt-3">
+        <form style="margin-top:150px">
+            <div class="row">
+                <!--name-->
+                <div class="col">
+                    <h6>NAME *</h6>
+                    <input type="text" class="form-control" placeholder="Name" name="email" required>
+                </div>
+                <!--email-->
+                <div class="col">
+                    <h6>EMAIL *</h6>
+                    <input type="email" class="form-control" placeholder="Email" name="email">
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <!--a place to write your message-->
+    <div class="container mt-3">
+        <form action="/action_page.php">
+            <div class="mb-3 mt-3">
+                <label for="comment" style="font-weight:bold">MESSAGE *</label>
+                <textarea class="form-control" rows="5" id="comment" placeholder="Message" name="text"></textarea>
+            </div>
+            <!--the button you press to send your message, the button redirects you to the page 'Contacted.html'-->
+            <p type="button" class="btn btn-primary">
+                <a href="Contacted.html" style="text-decoration:none;color:white;">SEND</a>
+            </p>
+        </form>
+    </div>
+</body>
+</html>
